@@ -22,7 +22,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Rood (kies uit zwart, rood óf blauw)
 
   #### Je focus:
-  beide? (kies uit responsive óf surface plane)
+  Responsive (kies uit responsive óf surface plane)
  
 </details>
 
@@ -55,9 +55,23 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 <details>
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
+  bij de toegankelijkheidstest ging ik de website van mijn duopartner bekijken en ook mijn eigen website. 
+  daaruit kon ik bepaalde punten eruit halen van beide websites
+  
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
+
+  mijn website:
+  - het leest niet alles voor, waarbij je tab moet aanklikken
+  - het begint wel via de header en benoemt wel de juiste informatie
+  - bij sommige onderdelen wordt het verkeerd besproken, bijvoorbeeld 3m (3 miljoen), wordt uitgesproken als 3 meter.
+  - screenreaders zijn handig maar ze werken niet helemaal perfect op de website.
+
+    website van mijn duopartner:
+    - de navigatie van de screenreader werkt niet op goede volgorde
+    - om naar de volgende te gaan moet je op tab klikken en spatiebalk wat niet echt handig is
+    - met spraak is het wel goed 
 
 </details>
 
