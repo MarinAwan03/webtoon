@@ -104,6 +104,22 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  ![image](https://github.com/MarinAwan03/webtoon/assets/143846696/4e2f4e2d-8f58-4fb0-bdfa-ffd66646a79c)
+
+  de navigatiebalk ging goed en ik had een manier gevonden om het te hoveren 
+
+  ![image](https://github.com/MarinAwan03/webtoon/assets/143846696/79eab8b7-cb50-4aa0-a4d8-de2f53254e9f)
+
+  ik had in de body een background gemaakt met, linear-gradient, maar op het scherm als je het op een kleine formaat doet is het niet helemaal gevuld
+  ![image](https://github.com/MarinAwan03/webtoon/assets/143846696/a1214aca-6393-454f-ab7b-ddfa26e2650b)
+
+
+  ik heb nog moeite met het css in de nth-of-type en de rest aan de hand van ul en li 
+
+  
+
+
+
 
 
   ### Agenda voor meeting
