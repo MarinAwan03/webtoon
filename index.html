@@ -3,58 +3,89 @@
 
 <head>
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" href="style.css">
     <title>Webtoon</title>
 </head>
 
 <body>
 
-    <header>
-
-        <li><img src="images/logo.png" width="200px" alt= "dit is een foto van een logo"></li>
-
-        <nav>
-            <ul>
-                <li><a href="index.html">Home</a></li>
-                <li><a href="genres.html">Genres</a></li>
-                <li><a href="genres.html">canvas</a></li>
-                <li><a href="genres.html">originals</a></li>
-                <li><a href="genres.html">popular</a></li>
-            </ul>
-        </nav>
-
-        <li><img src="images/profielfoto.png" width="150px" alt= "dit is de profielfoto"></li>
+    <div class="container">
+        <!-- mag geen width zetten in html -->
+        <header>
+            <img src="images/logo.jpg" alt="webtoon homepage">
+            <nav>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="genres.html">Genres</a></li>
+                    <li><a href="genres.html">canvas</a></li>
+                    <li><a href="genres.html">originals</a></li>
+                    <li><a href="genres.html">popular</a></li>
+                </ul>
+            </nav>
 
 
-    </header>
-
-    <main>
-
-
-        <!-- voor afbeeldingen die vervolgens gaan sliden en veranderen -->
-        <ul>
-            <!-- <li><img src="images/serie1.png" width="375px" alt="serie1 "></li>
-            <li><img src="images/serie2.png" width="375px" alt="serie2 "></li>
-            <li><img src="images/serie3.png" width="375px" alt="serie3 "></li>
-            <li> <img src="images/serie4.png" width="375px" alt="serie4 "></li> -->
-            <li><img src="images/serie5.png" alt="serie5 "></li>
-        </ul>
+            <img src="images/creators.png" alt="creatorsinfo">
+            <img src="images/profielfoto.png" alt="dit is de profielfoto">
 
 
+        </header>
 
-        <article>
-            <h2> what is webtoon</h2>
-            <p> Webtoons are digital comics designed for online reading. They use a vertical scroll
-                format, making them easy to read on smartphones. They cover various genres, are accessible online,
-                and often free. Creators can earn money through ads, featured episodes, and merchandise. Successful
-                webtoons can lead to adaptations in other media. It's a global and interactive platform where
-                readers can engage with creators.</p>
-            <article>
+        <main>
+            <section>
+                <h1>WEBTOON SERIES</h1>
+                <!-- voor afbeeldingen die vervolgens gaan sliden en veranderen -->
+                <div class="scrollbar">
+                    <img src="images/serie1.png" alt="name: I love yoo. Author, Quimchee. Published: datum">
+                    <img src="images/serie2.png" alt="serie2">
+                    <img src="images/serie3.png" alt="serie3">
+                    <img src="images/serie4.png" alt="serie4">
+                    <img src="images/serie5.png" alt="serie5">
+                    <img src="images/truebeauty.png" alt="serie6">
+                    <img src="images/agematters.png" alt="serie7">
+                    <img src="images/yourthrone.png" alt="serie8">
+                </div>
+                <article>
+                    <h2> what is webtoon</h2>
+                    <p> Webtoons are digital comics designed for online reading. They use a vertical scroll
+                        format, making them easy to read on smartphones. </p>
+
+                        <p>Successful
+                    webtoons can lead to adaptations in other media. It's a global and interactive platform where
+                    readers can engage with creators.</p>
+                </article>
+            </section>
 
 
-                <button>Start readin now</button>
+            <section>
+                <h2> famous for today</h2>
+                <nav>
+                    <ul>
+                        <li><a href="index.html">Monday</a></li>
+                        <li><a href="genres.html">Tuesday</a></li>
+                        <li><a href="genres.html">Wednesday</a></li>
+                        <li><a href="genres.html">Thursday</a></li>
+                        <li><a href="genres.html">Friday</a></li>
+                    </ul>
+                </nav>
 
-                <section>
+
+                <ul>
+                    <li><img src="images/first.jpg" alt="serie1"></li>
+                    <li><img src="images/second.jpg" alt="serie2"></li>
+                    <li><img src="images/third.jpg" alt="serie3"></li>
+                    <li> <img src="images/fourth.jpg" alt="serie4"></li>
+                    <li><img src="images/fifth.jpg" alt="serie5"></li>
+                    <li><img src="images/sixth.jpg" alt="serie5"></li>
+
+                </ul>
+                <button>Start reading now</button>
+                <button>publish now</button>
+            </section>
+
+
+            <section>
+                <article>
                     <h2> favorite genre</h2>
                     <p>Webtoons come in various flavors:
                         1. Romance: Love stories.
@@ -79,22 +110,13 @@
                                 alt="these are the most favorite and famous genres at the moment ">
                         </li>
                     </ul>
-                </section>
-
-              
-
-
-                <h2> famous for today</h2>
-                <ul>
-                    <li><img src="images/genres.png" width="375px" alt="serie1 "></li>
-                    <li><img src="images/genres.png" width="375px" alt="serie2 "></li>
-                    <li><img src="images/homepage.png" width="375px" alt="serie3 "></li>
-                    <li> <img src="images/homepage.png" width="375px" alt="serie4 "></li>
-                    <li><img src="images/genres.png" width="375px" alt="serie5 "></li>
-                </ul>
+                </article>
+            </section>
 
 
-                <h2> popular</h2>
+            <section>
+
+                <h3> popular</h3>
 
                 <ul>
                     <li><img src="images/popular.png" width="375px" alt="most popular series"></li>
@@ -103,33 +125,34 @@
 
 
                 <button>download</button>
-    </main>
+            </section>
+        </main>
 
-    <footer>
-        <h3>contactgegevens</h3>
+        <footer>
+            <h3>contactgegevens</h3>
 
-        <ul>
-            <li><img src="images/genres.png" width="375px" alt="facebook "></li>
-            <li><img src="images/genres.png" width="375px" alt="instagram "></li>
-            <li><img src="images/genres.png" width="375px" alt="twitter "></li>
-            <li><img src="images/genres.png" width="375px" alt="youtube "></li>
+            <ul>
+                <li><img src="images/genres.png" width="375px" alt="facebook "></li>
+                <li><img src="images/genres.png" width="375px" alt="instagram "></li>
+                <li><img src="images/genres.png" width="375px" alt="twitter "></li>
+                <li><img src="images/genres.png" width="375px" alt="youtube "></li>
 
-            <!-- waarschijnlijk nog een link toevoegen als dat kan -->
-        </ul>
+                <!-- waarschijnlijk nog een link toevoegen als dat kan -->
+            </ul>
 
-        <ul>
-            <li>feedback</li>
-            <li>help</li>
-            <li>terms</li>
-            <Li>privacy</Li>
-            <Li>personal data</Li>
-            <Li>advertise</Li>
-        </ul>
+            <ul>
+                <li>feedback</li>
+                <li>help</li>
+                <li>terms</li>
+                <Li>privacy</Li>
+                <Li>personal data</Li>
+                <Li>advertise</Li>
+            </ul>
 
-    </footer>
+        </footer>
 
-    <script src="javascript/art.js"></script>
-
+        <script src="javascript/art.js"></script>
+    </div>
 </body>
 
 </html>
