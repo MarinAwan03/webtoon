@@ -22,7 +22,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Rood (kies uit zwart, rood óf blauw)
 
   #### Je focus:
-  Responsive (kies uit responsive óf surface plane)
+  surface plane (kies uit responsive óf surface plane)
  
 </details>
 
@@ -135,10 +135,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - punt 1: persoonlijke vragen over de grootte van een website
+  - punt 2 kijken hoe je nth of type moet doen
+  - piunt 3 section en articles op een goede plek zetten
+    
 
 </details>
 
@@ -168,10 +168,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-- ...
+  - punt 1 kijken en letten dat je in plaats van px , em gaat doen
+  - punt 2 je website is nog niet responsive
+
 
 </details>
 
@@ -186,6 +185,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
+  de verbetering dat vooral er is, is dat mijn pagina de optie heeft om naar dark-modus en light-modus te gaan. Bepaalde content laten zien dat je niet op de website normaal ziet staan. Verder moet er nog gewerkt worden aan de Alt teksten voor de screenreader. Het oefenen kan daarbij dus beter.
 
 </details>
 
