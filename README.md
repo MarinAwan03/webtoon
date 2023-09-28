@@ -215,10 +215,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - punt 1 max-with niet gebruiken en veranderen
+  - punt 2 gebruik geen bottom, maar margin-top 0 
+  - input valid leren en nog meer
+  - values leren zoals van verschillende states
 
 </details>
 
