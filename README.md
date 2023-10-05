@@ -19,7 +19,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Marina Awan (vervangen door jouw naam)
 
   #### Je startniveau:
-  Rood (kies uit zwart, rood óf blauw)
+  blauw (kies uit zwart, rood óf blauw)
 
   #### Je focus:
   surface plane (kies uit responsive óf surface plane)
@@ -114,7 +114,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ![image](https://github.com/MarinAwan03/webtoon/assets/143846696/a1214aca-6393-454f-ab7b-ddfa26e2650b)
 
 
-  ik heb nog moeite met het css in de nth-of-type en de rest aan de hand van ul en li 
+  ik heb nog moeite met het css in de nth-of-type en de rest aan de hand van ul en li verder het zoeken naar een bepaalde image waarbij een gedeelte word geselecteerd.
 
   
 
@@ -125,15 +125,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  | Max      | Ebru       | Robin     | Niels      |
+
 
 
   ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
+  Robin wou vooral vragen stellen over het opstellen van een responsiveness website en nog ook de header te fixen. Max had persoonlijke vragen rond het mondeling. Niels ging vooral vragen
+  stellen over een invulformulier met input-type. Ebru en ik wouden beide vragen of onze code vooral netjes is. Mijn probleem was ook dat mijn pagina ging overlopen over mijn pagina. En ook mijn section bekijken.
 
   - punt 1: persoonlijke vragen over de grootte van een website
   - punt 2 kijken hoe je nth of type moet doen
@@ -144,32 +142,45 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
 
-
-
 ## Voortgang 2 (week 3)
 
 <details>
   <summary>uitwerken voor 2<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Het ging goed met het plaatsen van een nav dat lukte me wel met display flex en het positioneren daarvan. Ook van het geven van een animatie aan een afbeelding. De mogelijkheid om op iets te klikken en
+  dan laten verschijnen
+  
+![goed](https://github.com/MarinAwan03/webtoon/assets/143846696/66cd9eab-81b7-456a-94e5-d303056e9317)
+
+
+het ging vooral fout later waarbij er een groot witruimte tussen zat en ik de probleem niet kon vinden. Later was het ook dat ik dat probleem had gefixt, maar kwam met een andere, zoals dat 
+er in plaats van 1 ding alles werdt geselecteerd. 
+
+
+![slecht](https://github.com/MarinAwan03/webtoon/assets/143846696/e248fbf1-b6b9-4794-a29c-b9d1191d5745)
+
+dit is een afbeelding van waar het mis ging.
+
+![nogslechter](https://github.com/MarinAwan03/webtoon/assets/143846696/a64cb736-ee98-4abe-920b-97d63828a2fe)
+
+de code die ik had voor de witruimtes en selecties.
+
 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+ | Max      | Ebru       | Robin     | Niels      |
+
+ we hadden geen vragen echt, meer iets persoonlijk over onze code die netjes moest zijn. Robin was niet aanwezig in het gesprek.
 
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
   - punt 1 kijken en letten dat je in plaats van px , em gaat doen
-  - punt 2 je website is nog niet responsive
+  - punt 2 je website is nog niet responsive, waarbij ik ga kijken of ik dat nog kon doen.
 
 
 </details>
@@ -187,8 +198,19 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
   de verbetering dat vooral er is, is dat mijn pagina de optie heeft om naar dark-modus en light-modus te gaan. Bepaalde content laten zien dat je niet op de website normaal ziet staan. Verder moet er nog gewerkt worden aan de Alt teksten voor de screenreader. Het oefenen kan daarbij dus beter.
 
-</details>
 
+mijn website
+
+ - ik heb een darkmodus
+ - screenreader is duidelijker maar kan nog beter
+ - niet veel content dat overbodig is
+
+   kenza's website
+
+- screenreader werkt wel
+- moeilijk te zien waar je kan volgen. 
+</details>
+ 
 
 
 
@@ -199,17 +221,17 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 3<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+![image](https://github.com/MarinAwan03/webtoon/assets/143846696/7ff28716-c3ce-4f31-8ae5-61faeba1a954)
+
+animaties die ik dacht die niet gingen werken, waarbij ik eigenlijk alleen nog de duration moest veranderen. 
+
+  
 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+ | Max      | Ebru       | Robin     | Niels      |
 
 
   ### Verslag van meeting
@@ -232,19 +254,28 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/page1.png" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/page2.png" width="375px" alt="uitomst opdracht 2">
 
 
   ### Dit ging goed/Heb ik geleerd: 
   Korte omschrijving met plaatjes
+  het toevoegen van animaties ging goed bij mij vooral, daar kon ik beter mee werken.
+  Ook ging het goed met het toevoegen van dark modes
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
+  ![image](https://github.com/MarinAwan03/webtoon/assets/143846696/d06df50c-bf5b-4ff2-87c9-5f7f530f780f)
+
+
+  ![image](https://github.com/MarinAwan03/webtoon/assets/143846696/66839bb3-11c5-42fc-a8f4-6a2f3cc6b3ad)
+
 
 
   ### Dit was lastig/Is niet gelukt:
   Korte omschrijving met plaatjes
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+  ![image](https://github.com/MarinAwan03/webtoon/assets/143846696/e9ed6547-c313-42ed-90df-9a8f767ba29e)
+  het vinden van de juiste nth-of-type of selectie van een bepaalde image,content,text
+
 </details>
 
 
@@ -260,8 +291,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Nb. ChatGpT en andere AI horen er ook bij.
   Nb. Vermeld de bronnen ook in je code.
 
-  1. bron 1
-  2. bron 2
-  3. ...
+1. https://www.w3schools.com/css/css_dropdowns.asp  het positioneren van bepaalde content
+2. https://chat.openai.com/c/94c33977-aa0d-4ffd-bf0e-f2d308fea5be sommige vragen stellen over de javascript code en of het klopt af en toe waar naar ik zoek
+3. https://www.quackit.com/css/codes/marquees/create_fly-in_text_in_css.cfm animaties voor een tekst
+4. https://www.tutorialspoint.com/css/css_animation_fade_in_left.htm animaties van een fade-in
+5. https://codepen.io/P1N2O/pen/pyBNzX animatie voor het draaien
+6. https://www.youtube.com/watch?v=045j86hondk song voor de audio
+7. https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations gradient voor de tekst 
 
 </details>
