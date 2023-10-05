@@ -40,6 +40,18 @@ function veranderNogeenkeer() {
 }
 
 
+// voor de image halloween//
+
+var ImageButton = document.querySelector("header img:nth-of-type(3)");
+
+ImageButton.addEventListener('click',function() {
+    var audio = document.getElementById('audio');
+    audio.play("Audio/2winkTRICK with TREAT!!(with UNDEAD) あんさんぶるスターズ Music ゲームサイズMV.mp3");
+});
+
+
+
+
 
 
 
